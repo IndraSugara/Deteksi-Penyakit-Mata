@@ -14,13 +14,8 @@ ENV/
 
 .idea/
 
-Original Dataset/
-Augmented Dataset/
-
-models/
-*.pth
-*.pt
-_tmp.pth
+# NOTE: dataset and model folders are intentionally tracked in this repo
+# Do NOT ignore: Original Dataset/, Augmented Dataset/, models/
 
 *.log
 logs/
